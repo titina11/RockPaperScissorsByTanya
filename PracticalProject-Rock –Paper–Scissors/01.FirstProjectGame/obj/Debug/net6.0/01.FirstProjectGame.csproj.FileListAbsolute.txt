@@ -1,0 +1,14 @@
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\bin\Debug\net6.0\01.FirstProjectGame.exe
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\bin\Debug\net6.0\01.FirstProjectGame.deps.json
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\bin\Debug\net6.0\01.FirstProjectGame.runtimeconfig.json
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\bin\Debug\net6.0\01.FirstProjectGame.dll
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\bin\Debug\net6.0\01.FirstProjectGame.pdb
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\01.FirstProjectGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\01.FirstProjectGame.AssemblyInfoInputs.cache
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\01.FirstProjectGame.AssemblyInfo.cs
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\01.FirstProjectGame.csproj.CoreCompileInputs.cache
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\01.FirstProjectGame.dll
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\refint\01.FirstProjectGame.dll
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\01.FirstProjectGame.pdb
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\01.FirstProjectGame.genruntimeconfig.cache
+C:\Users\titi1\OneDrive\Desktop\PracticalProject-Rock –Paper–Scissors\01.FirstProjectGame\obj\Debug\net6.0\ref\01.FirstProjectGame.dll
